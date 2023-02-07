@@ -40,3 +40,4 @@ git commit aws 01 unpause
 git commit delete
 
 git commit dca13 new
+pause
