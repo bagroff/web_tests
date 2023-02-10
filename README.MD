@@ -43,3 +43,5 @@ git commit dca13 new
 pause
 unpause
 delete
+
+git commit multi-inst
