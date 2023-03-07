@@ -45,3 +45,5 @@ unpause
 delete
 
 git commit multi-inst
+
+git commit cross-inst
